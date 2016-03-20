@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.90"
+        android:ems="10"
+        android:text="LITERATURE
+
+The era of modern Bengali literature matured in the nineteenth century. Rabindranath Tagore, Nobel Laureate is a vital part of Bengali culture. Kazi Nazrul Islam, Michael Madhusudan Datta, Sharat Chandra Chattapadhaya, Bankim Chandra Chattapadhaya, Mir Mosharraf Hossain and Kazi Ahdul Wadud are the pioneers of modern Bengali literature. Bangladesh also has a long tradition in folk literature, evidenced by Maimansingha Githika, Thakurmar Jhuli and stories related to Gopal Bhar." >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
+</ScrollView>

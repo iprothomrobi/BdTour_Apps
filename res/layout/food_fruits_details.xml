@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="FOOD and FRUITS
+
+Bangladesh is famous for its distinctive culinary tradition, and delicious food, snacks and savories. Bangladeshi food has a close relation to Indian and Middle Eastern cuisine as well as having many unique traits. Boiled rice constitutes the staple food, and is served with a variety of vegetables, fried as well as curries, lentil soups, and fish and meat preparations of beef, mutton and chicken. Sweetmeats of Bangladesh are mostly milk based, and consist of several delights including Roshgulla, Sandesh, Rasamalai, Gulap Jamun, Kalo Jamun, Chom Chom. Bengali cuisine is rich and varied with the use of many specialized spices and flavors.Bangladesh abounds with a large variety of tropical and sub-tropical fruits. The most widely cultivated fruits are mango, jackfruit, pineapple, banana, litchi, lemon, guava, custard apple, wood apple, papaya, tamarind, watermelon, cashew nut, pomegranate and Indian olive. May, June and July are specially treated as fruit festival months in Bangladesh when almost all fruits are matured and available. A few fruits including papaya, coconut and banana are available throughout the year." >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
+</ScrollView>

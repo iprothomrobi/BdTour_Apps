@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+         android:id="@+id/HotelA"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#13B4E8"
+        android:ellipsize="marquee"
+        android:text="Hotel Kollol" />
+       
+    <Button
+       android:id="@+id/HotelB"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Hotel Coxin" />
+       
+    <Button
+       android:id="@+id/HotelC"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#D16B00"
+        android:ellipsize="marquee"
+        android:text="Prasad Paradise" />
+       
+        
+    <Button
+         android:id="@+id/HotelD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#13B4E8"
+        android:ellipsize="marquee"
+        android:text="Nitol Bay Resort" />
+       
+   
+       
+</LinearLayout>

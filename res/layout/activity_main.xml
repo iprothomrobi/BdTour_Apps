@@ -1,0 +1,43 @@
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/Touristspots"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#9E5100"
+        android:ellipsize="marquee"
+        android:textSize="15dp"
+        android:fontFamily="coureier new"
+        android:textColor="#000000"
+        android:text="Tourist Spots in Bangladesh" />
+
+    <Button
+        android:id="@+id/Whytour"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="28dp"
+        android:background="#046C17"
+        android:ellipsize="marquee"
+        android:text="About Bangladesh" />
+
+    <Button
+        android:id="@+id/Aboutme"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="#0F79F7"
+        android:ellipsize="marquee"
+        android:text="AboutMe" />
+
+</RelativeLayout>

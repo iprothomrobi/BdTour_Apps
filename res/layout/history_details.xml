@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.59"
+        android:ems="10"
+        android:text="
+HISTORY
+
+Bangladesh became one of the last major nation to be created following its secession in 1971 from the nation of Pakistan, which along with India achieved its independence from the British Empire in 1947. The region’s history combines Indo-Aryan, Austro-Asiatic, Dravidian, Mughal, Arab, Persian, Turkish and British influences. Bangladesh today including its surrounding territories (present-day Indian states of West Bengal, Orissa, Bihar, Meghalya, Assam and Tripura) was historically known as Bengal. It was first part of the Mughal empire for more than five centuries and then of the Bengal Presidency and finally of the British Empire. A.K.Fazlul Haque, Huseyn Shaheed Suhrawardy, Abdul Hamid Khan Bhasani and Sheikh Mujibur Rahman struggled to lead the Bengali nation to independence in 1971. Since independence, successive governments have sought to define Bangladesh’s democracy.
+
+According to archeological findings in the Wari-Boteshwari region, human settlement developed in Bangladesh some four thousand years ago. It is speculated that the Dravid and Tibet-Bormi clan made their settlement in this region at that time. Later this region was divided into small kingdoms and was being ruled by local and foreign rulers. Between 1205-1206 a Turkish origin soldier named Ikhtiar Uddin Mohammad Bakhtiar Khilji defeated King Lokkhon Sen and ended the kingship of the Sens. In the 16th Century, before the rule of the Mughal emperors, Bengal was ruled by local sultans and landlords. After the victory of the Mughals, Dhaka was established as the capital of Bengal and it was named Jahangirnagar. European traders arrived late in the 15th century and their influence grew until the British East India Company gained control of Bengal following the Battle of Plassey in 1757." >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
+</ScrollView>

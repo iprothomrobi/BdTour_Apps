@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="132dp"
+        android:layout_height="166dp"
+        android:layout_weight="0.09"
+        android:src="@drawable/me" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.29"
+        android:ems="10" 
+        android:text="
+Name:Sukanta Bala
+Mob:01738123140
+Email:sukantabalacste28@gmail.com
+Dept:Computer Science and Telecommunication Engineering
+Noakhali Science and Technology University"
+android:textColor="#292669">
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>

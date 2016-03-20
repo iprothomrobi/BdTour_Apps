@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="SEASONS and CLIMATE
+
+The Bangladeshi year is subdivided into six seasons: Grismo, Barsha, Sharat, Hemanto, Sheet and Bashonto.
+
+Grismo is divided into two months, Boishak and Jaistha. The 1st Boishak is the starting of the Bangla New Year. The advent of Bengali New Year is gaily observed throughout the country. Jaistha is called the ‘Modhu Maas’ (Honey Month) as there are lots of seasonal fruits ripe in this month.
+The months of Ashar and Srabon are in Barsha, the rainy season. The rains are at first a welcome relief from the baking, dusty hot season. But as they continue, the land turns into a brown and watery mass, ever-changing in shape and texture. It is during the rainy season that Bangladesh’s main crop, jute, begins to ripen and is harvested. The stalks are placed on high ground to dry. Aside from the practical problems, the rains and water also inspire the poetry, art and songs of the people.
+Vadro and Ashhin months are in Sharat, the season when the land turns into a carpet of bright green rice shoots while the smell of drying jute invades the air. Flowers bloom, the rice ripens and the harvest begins. Blue sky, golden sun and green vegetation are the colors of Sharat. Although the air is humid, there is a slight chill late at night.
+Hemanto has two months; Kartik and Augrahayon. Once the land has emerged from its watery grave, it is time to replant in new, fertile soil that is rich in nutrients. During this season, the land is at its luscious best. Festivals flourish to hail the harvest, the end of the floods, the coming of the new soil and the wonder of the rivers. The land and its people come to life during Hemanto, when the flowers bloom – jasmine, water lily, hibiscus and bougainvillea. By the season’s end, the air is no longer humid. Fresh scents replace the dry jute smell. Hemanto marks the start of the wedding season.
+Poush and Magh are in the winter season or Sheet. The weather becomes more arid and less humid. The earth dries and dust forms. Warm clothes are pulled out. Bashonto brings the months of Falgun and Chaitro. Bengali people celebrate the 1st Falgun in a big procession. People wear colorful dresses to welcome spring. The last day of Chaitro is another big celebration, an occasion when businesspersons close their old account books and invites their customers to visit their shops to clear all outstanding bills. The days are golden with light, and the nights and early mornings are chilly. The countryside hums with fairs, parades and commemorations. Festivals celebrate painting and handicrafts, poetry, music and drama. In Dhaka, basanto heralds the beginning of the social season with a frantic whirl of invitations to weddings, parties and dinners."
+        android:textColor="#FF7700" >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
+</ScrollView>

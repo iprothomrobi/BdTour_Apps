@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="
+CULTURE
+
+The land, the rivers and the lives of the people of Bangladesh formed a unique history, dating back more than 2500 years, and a rich heritage with marked differences from neighboring regions. Bangladesh’s culture has evolved over the centuries, and encompasses the diversity of several social groups.
+
+The culture of Bangladesh over centuries has assimilated influences of Hinduism, Jainism, Buddhism and Islam. It is manifested in various forms, including music, dance and drama, art and crafts, folklores and folktales, languages and literature, philosophy and religion, festivals and celebrations and in a distinct cuisine and culinary tradition." >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
+</ScrollView>

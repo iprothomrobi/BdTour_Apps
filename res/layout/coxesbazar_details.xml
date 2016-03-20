@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/Details"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#4C8AE8"
+        android:ellipsize="marquee"
+        android:text="Details" />
+    <Button
+       android:id="@+id/Scenery"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Scenery" />
+
+    <Button
+       android:id="@+id/Spot"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#D16B00"
+        android:ellipsize="marquee"
+        android:text="Spots" />
+
+    <Button
+       android:id="@+id/Residence"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#4C8AE8"
+        android:ellipsize="marquee"
+        android:text="Residence Information" />
+    <Button
+        android:id="@+id/Communication"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#D16B00"
+        android:ellipsize="marquee"
+        android:text="Communication From Dhaka" />
+
+</LinearLayout>

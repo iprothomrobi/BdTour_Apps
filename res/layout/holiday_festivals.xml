@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#3D5772"
+        android:text="HOLIDAYS and FESTIVALS
+
+There are as many festivals in Bangladesh as there are days in the year. Fairs and festivals play an important role in the social life of Bangladeshis. The two Eids, Eid ul Fitr and Eid ul Ajha are the largest festivals in the Islamic calendar. Major Hindu festivals are Durga Puja and Saraswati Puja. Buddha Purnima, which marks the birth of Gautama Buddha, is one of the most important Buddhist festivals while Christmas, called Bôŗodin (‘Great day’ in Bangla) is celebrated by the minority Christian population. The most important secular festival is Pohela Boishak or Bengali New Year, the beginning of the Bengali calendar.
+
+Eid-ul-Fitr, the biggest Muslim festival observed throughout the world, is held on the day following the Ramadan or the month of fasting. After a first glimpse of the moon of the month of Ramadan the fasting starts. For the whole month, the Muslim community fasts from dawn to dusk.
+
+Eid-ul Azha, the second most important festival in Islam is held marking the Hajj in Mecca on the 10th Zilhaj, the lunar month. Animals are sacrificed in reminiscence of Hazrat Ibrahim’s preparedness for the supreme sacrifice of his beloved son to Allah.
+
+Eid-e-Miladunnabi marks the birth and death day of Prophet Muhammad. He was born and died the same day on 12th Rabiul Awal (lunar month). The day is a national holiday. Special food is served in orphanages, hospitals and jails. At night, important public buildings are illuminated and milad mahfils are held.
+
+Durga Puja, the biggest festival of the Hindu community, continues for ten days, the last three days culminating with the idol being immersed in rivers. In Dhaka the big celebrations are held at Dhakeswari Temple and at the Ram Krishna Mission.
+
+Kali Puja is a Hindu religious festival, particularly of the Shakta community. Kali is the first of the ten female energies of Shiva (the third god of the Hindu Triad). Much information about her is given in different Puranas. She is shown as dark, four-armed and wearing a string of human heads with blood still dripping from them. Usually male goats, sheep or buffaloes are sacrificed during Kali Puja.
+
+Rathayatra or chariot journey is an important Hindu festival, referring primarily to the journey of the god Jagannath or Vishnu to the sea. The Rathayatra at Dhamrai was famous because of a towering 60-foot chariot built by the zamindars of Saturia Baliyati towards the middle of the 19th century. During the War of Liberation, the chariot was burned by the Pakistan army. A newly built chariot has now replaced the old one. A month-long fair is held at Dhamrai on the occasion of the Rathayatra in the month of Ashar (June-July).
+
+Rash Mela is the principal festival of the Manipuris and a major Hindu celebration observed at different places in the country on the night of the full moon in Kartik-Agrahayan. Thousands of devotees visit the places during the fair, which concludes with a holy bath in the sea at dawn. The fair signals the opening of the fishing season in Sundarban.
+
+Christmas is celebrated with pomp in Dhaka and elsewhere in the country. Several day-long large gatherings are held at St. Mary’s Cathedral at Ramna, Portuguese Church at Tejgaon, Church of Bangladesh (Protestant) on Johnson Road and Bangladesh Baptist Sangha at Sadarghat Dhaka. Functions include illumination of churches, decorating Christmas trees and other Christian festivities.
+
+Buddha Purnima, the main religious festival of the Buddhist community, is observed on Baishakhi Purnima , the day of the full moon in Baishakh (mid-April to mid-May). Three important events in the life of Buddha are believed to have occurred on this day: his birth in 623 BC, his gaining enlightenment in 588 BC, and his death in 543 BC. On Buddha Purnima, Buddhists arrange collective prayers and various other religious ceremonies, recite stories of the Buddha and his disciples, and organize social and cultural events. Many Buddhist Monasteries (vihara) organize three-day celebrations. The day is observed as a public holiday. Fairs are held on the day at different villages and viharas.
+
+Prabarana Purnima is a Buddhist festival, also known as Ashvini Purnima. Prabarana means both adopting wholly and forbidding. In the first sense it means dedicating oneself to the ideal of a life of humility; in the sense of forbidding, it means avoiding all acts contrary to the ideals of Buddhism. Prabarana is observed on the day of the full moon in the month of Asvin. At the end of Prabarana, every vihara celebrates the festival of Kathin Chibar Dan, when robes are given to the monks (viksus). According to Buddhist scriptures, on this day Lord Buddha went to the abode of the gods, and, after blessing his mother, returned to earth. To mark this event, the Buddhists send special hot-air balloons called ‘Fanush’ as a symbol of lighting up the sky.
+
+Pahela Baishakh, the first day of the Bangla year, is celebrated in a festive manner in both Bangladesh and West Bengal. In Bangladesh Pahela Baishakh is a national holiday on April 14. The most colorful New Year’s Day festival takes place in Dhaka. Large numbers of people gather early in the morning under the Banyan Tree at Ramna Park where Chhayanat artistes open the day with Tagore’s famous song, Eso he Baishakh eso eso (Come O Baishakh, come), welcoming Baishakh. A similar ceremony welcoming the New Year is also held at the Institute of Fine Arts, University of Dhaka Students and teachers of the institute take out a colorful procession and parade round the campus. In the rural areas farmers’ wives prepare ‘amani’ by soaking green mango and rice in a large earthen vessel on the last day of Chaitral. A leafy mango twig is also placed in the vessel. At dawn everybody eats the soaked rice while the water in the vessel is sprinkled on the bodies with the help of the mango twig. This keeps the body cool in the hot summer. Families prepare special dishes in the belief that a good meal at the start of the year will set the trend for the whole year.
+
+March 26 marks the Independence of Bangladesh. On this public holiday the citizens of Dhaka wake up early in the morning to the booming of guns heralding the day. Government leaders, sociopolitical organizations and freedom fighters place floral wreaths at the National Martyrs Monument at Savar. Bangla Academy, Bangladesh Shilpakala Academy and other socio-cultural organizations hold cultural functions. Similar functions are arranged in other parts of the country.
+
+On 21 February 1952 (8 Falgun 1359 in the Bangla calendar) a number of students campaigning for the recognition of Bangla as one of the state languages of Pakistan were killed when police fired upon them. All subsequent movements including the struggle for independence owe their origin to the historic language movement. The Shahid Minar (martyrs monument) is the symbol of sacrifice for Bangla, the mother tongue. After liberation, the day became a national holiday. Colorful Alpana designs are painted on the ground, and Bangla verses and prose passages are written on the walls facing the Shahid Minar. Ekushey February (21 February) played an important role in making Bengalis aware of their cultural and national heritage and ultimately led to the creation of Bangladesh in 1971. Since 2000 this day is also observed as International Mother Language Day in tribute to those who sacrificed their lives for their mother tongue.
+
+Water festival is the biggest festival of the Marma community, akin to Boisabi of the Tripuras and Biju of the Chakmas. In mid-April, this celebration of the New Year falls around the same time as Bengali Pahela Baishakh and Assamese Bihu. Apart from songs and dances Sangrai is marked by the water festival and magic charm competitions. Water festival is a game of splashing water from two sides of a marked arena by unmarried boys and girls.
+
+Nobanno or “new rice” is the festival of harvest in Bengal, taking place in the Bengali month of Augrahayon. Festivities include the making of traditional cakes named “pitha”. The most common ingredients of pitha are rice or wheat flour, molasses or sugar, coconut and oil. Meat, vegetables and fruits are also used in preparing some pithas. Date juice and molasses – both important ingredients of pithas – are readily available in the winter.
+
+The birth anniversary of the Nobel Laureate and writer of the national anthem Rabindranath Tagore on 25th Baishakh (early May) and that of the national poet Kazi Nazrul Islam, famous as ‘Rebel Poet’ for his fiery writings, on 11th Jaistha (late May) are observed throughout the country. Big gatherings and songs sessions organized by socio-cultural organizations are the main features of the observance of the days" >
+
+
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>
+</ScrollView>

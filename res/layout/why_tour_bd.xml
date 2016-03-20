@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+         android:id="@+id/History"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#4C8AE8"
+        android:ellipsize="marquee"
+        android:text="History" />
+
+    <Button
+         android:id="@+id/Culture"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#6FC848"
+        android:ellipsize="marquee"
+        android:text="Culture" />
+    <Button
+         android:id="@+id/Literature"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#4C8AE8"
+        android:ellipsize="marquee"
+        android:text="Literature" />
+    <Button
+          android:id="@+id/Music"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Music" />
+    <Button
+         android:id="@+id/FoodandFruits"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#6FC848"
+        android:ellipsize="marquee"
+        android:text="Food and Fruits" />
+     <Button
+        android:id="@+id/Dress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#6FC848"
+        android:ellipsize="marquee"
+        android:text="Dress" />
+    <Button
+          android:id="@+id/SeasonandClimate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Season and Climate" />
+    <Button
+         android:id="@+id/Holiday"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#6FC848"
+        android:ellipsize="marquee"
+        android:text="Holiday and Festivals" />
+    <Button
+          android:id="@+id/Currency"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#4C8AE8"
+        android:ellipsize="marquee"
+        android:text="Currency"
+        android:textSize="12dp"
+        android:textColor="#ff0" />
+
+
+</LinearLayout>
+</ScrollView>

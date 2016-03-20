@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" 
+        android:text="RailWay Station: Kamlapur
+Rent:400(About)
+         View Update:10/03/2014 
+         Via: Dhaka to Chittagonj to Coxe's Bazar"
+        android:textSize="30dp"
+        android:textColor="#800000">
+       
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>

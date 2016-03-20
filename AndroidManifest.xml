@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bangladeshtourproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.bangladeshtourproject.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="aboutMe"></activity>
+        <activity android:name="Air"></activity>
+        <activity android:name="Bandarban"></activity>
+        <activity android:name="Bus"></activity>
+        <activity android:name="ComillaCoatbari"></activity>
+        <activity android:name="CommunicationInner"></activity>
+        <activity android:name="CoxesInner"></activity>
+        <activity android:name="Culture"></activity>
+        <activity android:name="Currency"></activity>
+        <activity android:name="DetailsInner"></activity>
+        <activity android:name="Dress"></activity>
+        <activity android:name="History"></activity>
+        <activity android:name="HolidayFesTivals"></activity>
+        <activity android:name="HotelA"></activity>
+        <activity android:name="HotelB"></activity>
+        <activity android:name="HotelC"></activity>
+        <activity android:name="HotelD"></activity>
+        <activity android:name="KantazirTemple"></activity>
+        <activity android:name="KhagraChori"></activity>
+        <activity android:name="Kuakata"></activity>
+        <activity android:name="Literature"></activity>
+        <activity android:name="MainamatiInner"></activity>
+        <activity android:name="Music"></activity>
+        <activity android:name="PaharpurInner"></activity>
+        <activity android:name="Rangamati"></activity>
+        <activity android:name="ResidenceInner"></activity>
+        <activity android:name="SceneryInner"></activity>
+        <activity android:name="SeasonClimate"></activity>
+        <activity android:name="SentMartinInner"></activity>
+        <activity android:name="SitaKundaInner"></activity>
+        <activity android:name="Sompur"></activity>
+        <activity android:name="Sonargoan"></activity>
+        <activity android:name="SpotInner"></activity>
+        <activity android:name="Sylhet"></activity>
+        <activity android:name="TouristSpot"></activity>
+        <activity android:name="Train"></activity>
+        <activity android:name="FoodsFruits"></activity>
+        <activity android:name="whyTour"></activity>
+    </application>
+
+</manifest>

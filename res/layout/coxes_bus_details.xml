@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.99"
+        android:ems="10"
+        android:text="Bus Station: Saydabad
+Rent:600(About)
+         View Update:10/03/2014 
+         Via: Dhaka to Chittagonj to Coxe&apos;s Bazar
+         Bus Service::
+         Silk Line
+Long distance transportation company in Bang ladesh. Dhaka:: 167, Motijheel, Circular Road, Dhaka , Tel: 88-02-7102461 
+S. Alam Coach Service
+Dhaka :: Fakirapool, Dhaka, Tel: 02-9331864 ; Chittagong:: Taj Market, Bahaddarhat , Chittagong, Tel: 031-652478, ...
+Saudia Coach Service
+Dhaka :: Arambag Counter, Dhaka, Tel: 02-7102465; Chittagong :: Taj Market, Bahaddarhat , Chittagong, Tel: ...
+Hanif Enterprise
+Dhaka :: 22/3, Block-B, College Gate, Dhaka , Tel: 02-9120116, 8114442, 8313869 Chittagong:: 9/2 B.R.T.C Market ...
+CityCom
+A bus company offer cheap rate bus ticket. Dhaka :: Hotel Eden Complex, Dhaka, Tel: 02-7101956 ...
+Challenger
+Provide AC bus services. Dhaka :: 11, Fakirapool, Dhaka , Tel: 8317680, 8317557; Chittagong:: 1 BRTC ...
+Shohagh Paribhan (Pvt.) Ltd.
+Schedule charter bus company in Bangladesh. Dhaka :: 114, D.I.T Road, Malibagh, Dhaka, Tel: 9334152, 8316766, ...
+Green Line
+Provide luxury bus service for Dhaka chittagong and cox&apos;s Bazzar. Dhaka :: 9/2 Outer Circular Road, ...
+         "
+        android:textColor="#800000"
+        android:textSize="30dp" >
+
+        <requestFocus />
+    </EditText>
+</LinearLayout>
+
+</ScrollView>

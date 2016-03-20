@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+ 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+         android:id="@+id/CoxzBazar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#7B399D"
+        android:ellipsize="marquee"
+        android:text="Coxe's Bazar" />
+    <Button
+        android:id="@+id/SentMartin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Sent Martin" />
+       
+        
+
+    <Button
+        android:id="@+id/Bandarban"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#7B399D"
+        android:ellipsize="marquee"
+        android:text="Bandarban" />
+       
+    <Button
+         android:id="@+id/Rangamati"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Rangamati" />
+        
+    <Button
+         android:id="@+id/KhagRachari"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#47144F"
+        android:ellipsize="marquee"
+        android:text="KhagRachari"
+        android:textColor="#FFFFFF" />
+     <Button
+         android:id="@+id/SylhetZaflong"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Sylhet" />
+    
+        
+    <Button
+        android:id="@+id/Sundarban"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#47144F"
+        android:ellipsize="marquee"
+        android:textColor="#FFFFFF"
+        android:text="Sundarban" />
+    <Button
+        android:id="@+id/Kuakata"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Kuakata" />
+        
+    <Button
+         android:id="@+id/Sitakundo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:textColor="#FFFFFF"
+        android:text="Sitakunda" />
+        
+    <Button
+        android:id="@+id/Mainamoti"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#47144F"
+        android:ellipsize="marquee"
+        android:text="Moinamoti" />
+       
+    <Button
+         android:id="@+id/ComillaCoatBari"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:textColor="#FFFFFF"
+        android:text="Comilla Coatbari" />
+        
+    <Button
+        android:id="@+id/Kustia"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#294713"
+        android:ellipsize="marquee"
+        android:text="Kustia Silaidaha" />
+       
+    <Button
+         android:id="@+id/Sompur"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:textColor="#FFFFFF"
+        android:text="Soampur Baiddahbihar" />
+
+         <Button
+         android:id="@+id/Sonargoan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#47144F"
+        android:ellipsize="marquee"
+        android:text="Sonar Gowan" />
+        
+        
+    <Button
+         android:id="@+id/KantaZir"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:textColor="#FFFFFF"
+        android:text="Dinazpur Kantazir Temple" />
+        
+    <Button
+         android:id="@+id/Paharpur"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#47144F"
+        android:ellipsize="marquee"
+        android:text="Paharpur" />
+        
+    <Button
+         android:id="@+id/nijumdip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:textColor="#FFFFFF"
+        android:text="Nijum Dip" />
+        
+    <Button
+        android:id="@+id/NatoreRajbari"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#800000"
+        android:ellipsize="marquee"
+        android:text="Natore Rajbari" />
+       
+    <Button
+         android:id="@+id/Mahastahngar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Whytour"
+        android:layout_marginTop="44dp"
+        android:background="#47144F"
+        android:ellipsize="marquee"
+        android:text="Mahasthangar" />
+        
+</LinearLayout>
+</ScrollView>
